@@ -1,6 +1,6 @@
 # SNMP Bandwidth Monitor
 
-This project is a simple SNMP-based bandwidth monitoring tool implemented in Python using the `pysnmp` library. It uses the `ifInOctets` SNMP OID to calculate inbound bandwidth (in bits per second) on a given interface of a local SNMP agent.
+This project is a simple SNMP-based bandwidth monitoring tool implemented in Python using the `pysnmp` library. It uses the `ifInOctets` SNMP OID to calculate inbound bandwidth (in bits per second) on a given interface of a local SNMP agent.This script was developed for academic purposes to better understand SNMP monitoring and traffic analysis techniques used in network management and security.
 
 ## Features
 
