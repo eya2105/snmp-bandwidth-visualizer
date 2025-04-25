@@ -17,15 +17,11 @@ This project is a simple SNMP-based bandwidth monitoring tool implemented in Pyt
 - Virtual environment named `snmp-env` (recommended)
 - **ManageEngine MIB Browser** (used to inspect/check SNMP OIDs)
 - SNMP agent running locally (e.g., `snmpd` or Windows SNMP service)
-
----
-
-## Requirements
-pysnmp
-pysnmp-apps
-pyasn1
-matplotlib
-time
+- pysnmp
+- pysnmp-apps
+- pyasn1
+- matplotlib
+- time
 
 ---
 
